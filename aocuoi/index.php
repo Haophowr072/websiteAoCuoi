@@ -19,6 +19,7 @@
 		include("modules/yeucau.php");
 		include("modules/tin-tuc.php");
 		include("modules/footer.php");
+		echo="hi"
 	?>
 	</div>
 </body>
